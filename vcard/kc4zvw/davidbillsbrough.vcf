@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Billsbrough;David;;;
+FN:David Billsbrough
+ORG:Stardust Data Networks
+ADR;TYPE=WORK:560 E 2nd Street
+Chuluota, FL 32766-8962
+USA
+TITLE:Embedded Controller Developer
+TEL;TYPE=WORK:321-244-7273
+TEL;TYPE=CELL:407-576-0082
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:billsbrough@gmail.com
+URL;TYPE=Digital Business Card:https://www.kc4zvw.org/vcard/kc4zvw
+URL:https://www.kc4zvw.org
+URL;TYPE=Calendar:https://cal.com/davidbillsbrough
+URL;TYPE=Website:https://www.kc4zvw.org
+URL;TYPE=GitHub:https://github.com/@dbillsbrough
+URL;TYPE=Mastodon:https://mastodon.radio/@kc4zvw@mastodon.hams.social
+URL;TYPE=Tumblr:https://kc4zvw.tumblr.com/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100081231
+END:VCARD

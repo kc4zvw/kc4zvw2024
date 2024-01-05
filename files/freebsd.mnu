@@ -1,0 +1,71 @@
+T_FreeBSD "Updating and Upgrading" Utilities
+
+L_A
+T_Fetch updates using portsnap
+C_/usr/sbin/portsnap fetch
+S_1
+
+L_B
+T_Update the ports tree using portsnap
+C_/usr/sbin/portsnap update
+S_1
+
+L_C
+T_Check status (audit) ports tree
+C_/usr/sbin/pkg audit
+S_1
+
+L_D
+T_Check status packages database
+C_/usr/sbin/pkg check -d -a
+S_1
+
+L_F
+T_Fetch FreeBSD system updates
+C_freebsd-update fetch
+S_1
+
+L_L
+T_List all of the install port packages
+C_/usr/sbin/pkg info | less -S
+S_0
+
+L_M
+T_Rebuild all installed port packages
+C_portmaster -a -f -D -R
+S_0
+
+L_N
+T_Rebuild all installed port packages
+C_portmaster -a -f -D -R
+S_0
+
+L_R
+T_Run portupdates to upgrade system
+C_/usr/local/sbin/portupgrade -av
+S_1
+
+L_S
+T_Updates to system source tree
+C_/root/bin/source-update
+S_1
+
+L_U
+T_Updates to system docs tree
+C_/root/bin/docs-update
+S_1
+
+L_V
+T_View the latest 'UPDATING' file.
+C_/usr/bin/less /usr/ports/UPDATING
+S_0
+
+L_X
+T_Expand size of putty window
+C_/root/bin/set-term-size 0
+S_0
+
+L_Q
+T_Quit this menu
+C_^
+
